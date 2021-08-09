@@ -4,4 +4,4 @@ ChordAIは楽曲のコードをAIで解析できます。
 
 ## ダウンロード
 
-[ChordAI v0.01-alpha](https://github.com/anime-song/ChordAI/releases/download/v0.01-alpha/ChordAI.zip)
+[ChordAI v0.02-alpha](https://github.com/anime-song/ChordAI/releases/download/v0.02-alpha/ChordAI.zip)
